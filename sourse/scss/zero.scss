@@ -1,0 +1,28 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	outline: none;
+	border: none;
+
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+.df{
+	display: flex;
+}
+.dg{
+	display: grid;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+
+/*::-webkit-scrollbar {
+    width: 0;
+}*/
